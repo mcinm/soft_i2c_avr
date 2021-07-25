@@ -1,2 +1,2 @@
-# soft_i2c_avr
+# Software I2C AVR library
 AVR software library
